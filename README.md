@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-allnewsapi-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://allnewsapi.com/
+AllNewsAPI provides a unified news API that aggregates live breaking news, headlines, and historical news data from over 250,000 sources across 196 countries. Developers can query articles using keywords, filters, and advanced query syntax, accessing up to ten years of archived content. The service offers free plans, fast response times, and comprehensive documentation.
+
+**Areas:** News · API · Data · Media · Aggregation · Company
+
+## allnewsapi-com on APIs.io
+
+Everything profiled for allnewsapi-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/allnewsapi-com/](https://apis.io/providers/allnewsapi-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [AllNewsAPI API](https://apis.io/apis/allnewsapi-com/allnewsapi-api/) — Use one news API to get live breaking news, headlines and historical news data from over 250,000 sources in 196 countries, with up to 10 years of archive.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Allnewsapi Com Context](https://apis.io/jsonld/allnewsapi-com/allnewsapi-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Allnewsapi Com Openapi Overlay](https://apis.io/overlays/allnewsapi-com/allnewsapi-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [allnewsapi-com API Rules](https://apis.io/rules/allnewsapi-com/allnewsapi-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Allnewsapi Com Authentication](https://apis.io/security/allnewsapi-com/allnewsapi-com-authentication/)
+- [Allnewsapi Com Domain Security](https://apis.io/security/allnewsapi-com/allnewsapi-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Allnewsapi Com Plans Pricing](https://apis.io/plans/allnewsapi-com/allnewsapi-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Allnewsapi Com Rate Limits](https://apis.io/rate-limits/allnewsapi-com/allnewsapi-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://allnewsapi.com/)
+- [Blog](https://allnewsapi.com/blog)
+- [Terms of service](https://allnewsapi.com/terms-of-service)
+- [Privacy policy](https://allnewsapi.com/privacy-policy)
+- [Status](https://allnewsapi.statuspage.io/)
+
+## API Evangelist rating
+
+**Kin Score 38.6** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 14.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 20.7 |
+| Access clarity | 49.5 |
+
+**Agent readiness 14.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/allnewsapi-com/](https://apis.io/providers/allnewsapi-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for allnewsapi-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/allnewsapi-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
